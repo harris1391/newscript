@@ -1,1 +1,1 @@
-# publicscript
+# newscript
